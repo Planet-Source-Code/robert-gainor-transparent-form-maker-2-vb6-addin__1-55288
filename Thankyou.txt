@@ -1,0 +1,6 @@
+This program was was created using knowledge optained from projects and code submissions at
+Planet Source Code. I would like to thank everyone who contributes to this code repository.
+It has been immensly helpfull in answering even the toughest coding questions.
+
+Thanks Again
+Robert Gainor
